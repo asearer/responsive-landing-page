@@ -21,7 +21,7 @@ This project is a modern, responsive landing page built to demonstrate a clean a
 1. **Clone the repository:**
    
    ```bash
-   git clone https://github.com/your-username/responsive-landing-page.git
+   git clone https://github.com/asearer/responsive-landing-page.git
    ```
 
 2. **Open the project:**
